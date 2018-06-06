@@ -8,9 +8,9 @@ import java.io.FileWriter;
 import java.util.Arrays;
 
 @SpringBootApplication
-public class ZalandotestApplication implements CommandLineRunner {
+public class Main implements CommandLineRunner {
 	public static void main(String[] args) {
-		SpringApplication.run(ZalandotestApplication.class, args);
+		SpringApplication.run(Main.class, args);
 	}
 
 	@Override
