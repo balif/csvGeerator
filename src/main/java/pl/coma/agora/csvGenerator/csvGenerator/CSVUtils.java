@@ -1,4 +1,4 @@
-package pl.agora.test.csvGenerator;
+package pl.coma.agora.csvGenerator.csvGenerator;
 
 import java.io.IOException;
 import java.io.Writer;
