@@ -9,6 +9,7 @@ import java.util.Arrays;
 
 @SpringBootApplication
 public class Main implements CommandLineRunner {
+
 	public static void main(String[] args) {
 		SpringApplication.run(Main.class, args);
 	}
